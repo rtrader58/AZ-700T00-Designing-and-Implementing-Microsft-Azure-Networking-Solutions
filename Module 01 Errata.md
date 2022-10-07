@@ -1,4 +1,4 @@
-# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  - Modules 01 Errata
+# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  - Module 01 Errata
 
 <br>
  
