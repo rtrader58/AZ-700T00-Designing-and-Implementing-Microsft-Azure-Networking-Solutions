@@ -2,24 +2,54 @@
 
 <br>
  
-## Module 1 – Introduction to Azure virtual networks 
-
+## Module 1 – Introduction to Azure virtual networks (Total Time ~70 Minutes)
 <br>
 
-No errata <br>
+### M01-Unit 4 Design and implement a Virtual Network in Azure (~25 Min) <br>
+
+### Required Lab Setup
+<br>
+
+Prepare cloud shell for later use <br>
+Step 5:  Use the resource group that is auto populated <br>
+
+When creating the virtual networks delete the existing IP range <br>
+
+### M01 - Unit 6 Configure DNS settings in Azure (~ 25 Min) <br>
+<br>
+
+Task 4: Verify records are present in the DNS zone <br>
+Exercise - Connect to the Test VMs using RDP <br>
+After step 19 disconnect from both RDP sessions <br>
+
+### M01 - Unit 8 Connect two Azure Virtual Networks using global virtual network peering (~20 Min) 
+
+No errata
 
 ## Module 2 – Design and implement an identity hybrid networking <br>
 
-### Exercise 1 - Create and configure a virtual network gateway <br>
+### M02 - Unit 3 Create and configure a virtual network gateway (~70 Min) <br>
 
 Task 1:  Create CoreservicesVnet and ManufacturingVnet <br>
-Step 1:  If required use advanced settings to create a storage account. <br>
-Step 2:  The files are located in the following path  F:\Allfiles\Exercises\ <br>
+Step 1:  If required use advanced settings to create a storage account <br>
 
-Complete tasks 6 and 7 before taking a break <br>
+# Complete tasks 6 and 7 before taking a break <br>
+
+Task 6: Create CoreServicesVnet Gateway <br>
+Step 3:  If Public IP Address Type is greyed out continue <br>
+Continue with Task 7 while Gateway is being built. <br>
+
+Task 7: Create ManufacturingVnet Gateway <br>
+Step 3:  If Public IP Address Type is greyed out continue <br>
+Routinely click in the Azure Portal so the lab does not end on you <br>
+Both Virtual Gateways have to finish building before continuing to Task 8 <br>
 
 Task 10: Verify that the connections connect <br>
 Step 2:  it took 10 minutes after gateways were finished building before status showed connected <br>
+
+### M02 - Unit 7 Create a Virtual WAN by using Azure Portal (~65 Min)
+
+
 
 ## Module 3 – Design and Implement Azure ExpressRoute <br>
 
