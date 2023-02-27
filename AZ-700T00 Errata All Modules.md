@@ -49,7 +49,7 @@ Step 2:  it took 10 minutes after gateways were finished building before status 
 
 ### M02 - Unit 7 Create a Virtual WAN by using Azure Portal (~65 Min)
 
-
+No errata <br>
 
 ## Module 3 – Design and Implement Azure ExpressRoute <br>
 
