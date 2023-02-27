@@ -3,7 +3,8 @@
 ## AZ-700 Designing and Implementing Microsoft Azure Networking Solutions - https://learn.microsoft.com/en-us/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/
 
 Learning Path 1 - Introduction to Azure virtual networks - https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-virtual-networks/ <br>
-Labs
+
+Labs <br>
 
 M01 - Unit 4 Design and implement a Virtual Network in Azure (~25 Min) <br>
 M01 - Unit 6 Configure DNS settings in Azure (~ 25 Min) <br>
@@ -11,10 +12,10 @@ M01 - Unit 8 Connect two Azure Virtual Networks using global virtual network pee
 
 Learning Path 2 - Design and implement hybrid networking - https://learn.microsoft.com/en-us/training/modules/design-implement-hybrid-networking/ <br>
 
-Labs
+Labs <BR>
 
 M02 - Unit 3 Create and configure a virtual network gateway (~70 Min) <br>
-M02 - Unit 7 Create a Virtual WAN by using Azure Portal (~65 Min)
+M02 - Unit 7 Create a Virtual WAN by using Azure Portal (~65 Min) <BR>
 
 Learning Path 3 - Design and implement Azure ExpressRoute - https://learn.microsoft.com/en-us/training/modules/design-implement-azure-expressroute/ <br>
 
