@@ -7,7 +7,7 @@ Learning Path 1 - Introduction to Azure virtual networks - https://learn.microso
 Labs <br>
 
 M01 - Unit 4 Design and implement a Virtual Network in Azure (~25 Min) <br>
-M01 - Unit 6 Configure DNS settings in Azure (~ 25 Min) <br>
+M01 - Unit 6 Configure DNS settings in Azure (~25 Min) <br>
 M01 - Unit 8 Connect two Azure Virtual Networks using global virtual network peering (~20 Min) <br>
 
 Learning Path 2 - Design and implement hybrid networking - https://learn.microsoft.com/en-us/training/modules/design-implement-hybrid-networking/ <br>
