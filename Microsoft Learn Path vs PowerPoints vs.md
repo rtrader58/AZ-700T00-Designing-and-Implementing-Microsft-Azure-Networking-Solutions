@@ -5,7 +5,7 @@
 Learning Path 1 - Introduction to Azure virtual networks - https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-virtual-networks/ <br>
 Labs
 
-M01-Unit 4 Design and implement a Virtual Network in Azure (~25 Min) <br>
+M01 - Unit 4 Design and implement a Virtual Network in Azure (~25 Min) <br>
 M01 - Unit 6 Configure DNS settings in Azure (~ 25 Min) <br>
 M01 - Unit 8 Connect two Azure Virtual Networks using global virtual network peering (~20 Min) <br>
 
