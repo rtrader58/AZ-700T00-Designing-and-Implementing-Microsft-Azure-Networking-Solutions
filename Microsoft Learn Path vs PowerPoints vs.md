@@ -19,7 +19,17 @@ M02 - Unit 7 Create a Virtual WAN by using Azure Portal (~65 Min) <BR>
 
 Learning Path 3 - Design and implement Azure ExpressRoute - https://learn.microsoft.com/en-us/training/modules/design-implement-azure-expressroute/ <br>
 
+Labs <br>
+
+M03 - Unit 4 Configure an ExpressRoute Gateway (~60 Min)
+M03 - Unit 5 Provision an ExpressRoute circuit (~15 Min)
+
 Learning Path 4 - Load balance non-HTTP(S) traffic in Azure - https://learn.microsoft.com/en-us/training/modules/load-balancing-non-https-traffic-azure/ <br>
+
+Lab <br>
+
+M04 - Unit 4 Create and configure an Azure load balancer (~60 Min)
+
 
 Learning Path 5 - Load balance HTTP(S) traffic in Azure - https://learn.microsoft.com/en-us/training/modules/load-balancing-https-traffic-azure/ <br>
 

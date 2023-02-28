@@ -1,6 +1,6 @@
 # AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  - Errata All Modules <br>
  
-## Module 1 – Introduction to Azure virtual networks (Total Time ~70 Minutes) <br>
+## Learning Path 01 – Introduction to Azure virtual networks (Total Time ~70 Minutes) <br>
 
 ### M01-Unit 4 Design and implement a Virtual Network in Azure (~25 Min) <br>
 
@@ -21,7 +21,7 @@ After step 19 disconnect from both RDP sessions <br>
 
 No errata
 
-## Module 2 – Design and implement an identity hybrid networking <br>
+## Learning Path 02 – Design and implement an identity hybrid networking <br>
 
 ### M02 - Unit 3 Create and configure a virtual network gateway (~70 Min) <br>
 
@@ -46,20 +46,72 @@ Step 2:  it took 10 minutes after gateways were finished building before status 
 
 No errata <br>
 
-## Module 3 – Design and Implement Azure ExpressRoute <br>
+## Learning Path 03 – Design and Implement Azure ExpressRoute 
 
 Throughout the lab use the search box to search for ExpressRoute Circuits <br>
 
+### Lab Setup
+
+Prepare cloud shell for later use <br>
+Step 5:  Use the existing Resource Group <br>
+
+### M03 - Unit 4 Configure an ExpressRoute Gateway (~60 Min)
+
+Task 1: Create the VNet and gateway subnet <br>
+Delete the 10.0.0.0 Virtual Network <br>
+
+Step 5:   After pasting delete the /16 <br>
+Subnet size:  /16 <br>
+
+Step 6:  Select Virtual Network Gateway in the Subnet template dropdown <br>
+Starting address:  After pasting delete the /27 <br>
+Subnet size:  choose /27 <br>
+
+Task 2: Create the virtual network gateway <br>
+
+Step 3:  Resource Group will auto populate
+ <br>
+
+### M03 - Unit 5 Provision an ExpressRoute circuit (~15 Min)
+
+Task 1: Create and provision an ExpressRoute circuit <br>
+Step 1:  If ExpressRoute is not an option search for it <br>
+
+Task 2: Retrieve your Service key <br>
+If ExpressRoute does not appear - search for ExpressRoute Circuit <br>
+
+Task 4: Clean up resources <br>
+
 When cleaning up the lab you will need to create a storage account, use advanced setting to create the storage account <br>
 
-## Module 4 -Load balance non-HTTP(S) traffic in Azure <br>
+## Learning Path 04 -Load balance non-HTTP(S) traffic in Azure <br>
 
-### Exercise:  Create and configure an Azure load balancer <br>
+### M04 - Unit 4 Create and configure an Azure load balancer (~60 Min)
+
+Task 1: Create the virtual network <br>
+Step 3:  Delete the existing Virtual Network <br>
+Wait for the deployment to complete before moving on <br>
 
 Task 2:  Create backend servers <br>
-Step 1:  if prompted use advance setting to create a storage account <br>
+Step 1:  If prompted use advance setting to create a storage account <br>
+Use existing Resource Group <br>
+Step 2:  path to files  F:\allfiles\exercises\M04 <br>
+Step 3:  Once VM2 is created you may have to hit enter for the last cmdlet to run.  Do not close the Cloud Shell until the  all VMs are created <br>
 
-## Module 5 – Load balance HTTP(S) traffic in Azure <br>
+Task 4: Create load balancer resources <br>
+Do not continue until all VMs are created from task 2 <br>
+Create a backend pool and add VMs to the backend pool <br>
+Step 4:  Click Add under IP configuration to add Virtual Machines <br>
+Step 6:  Click Save <br>
+
+Create a health probe <br>
+Step 2:  Unhealthy threshold has been removed <br>
+
+Task 5: Test the load balancer <br>
+Create test VM <br>
+Step 2:  Leave the size that is auto filled <br>
+
+## Learning Path 05 – Load balance HTTP(S) traffic in Azure <br>
 
 ### Exercise:  Deploy Azure Application Gateway <br>
 
@@ -69,7 +121,7 @@ You will need to give the Application Gateway a Priority when configuring the li
 Task 2:  Create virtual machines <br>
 Step 1:  if prompted use advance setting to create a storage account <br>
 
-## Module 6 – Design and implement network security <br>
+## Learning Path 06 – Design and implement network security <br>
 
 ### Exercise:  Configure DDos Protection on a virtual network using the Azure portal <br>
 
@@ -112,7 +164,7 @@ Step 4:  Manage associations is located on the top bar <br>
 
 Association took over 15 minutes <br>
 
-## Module 7 – Design and implement private access to Azure services <br>
+## Learning Path 07 – Design and implement private access to Azure services <br>
 
 ### Exercise:  Restrict network access to PAAS resources with virtual network service endpoints <br>
 
@@ -147,7 +199,7 @@ Pa55w.rd1234 <br>
 
 Copy and paste the remaining script into the cloud shell <br>
 
-## Module 08 (CSS): Design and implement network monitoring <br>
+## Learning Path 08: Design and implement network monitoring <br>
 
 ### Exercise – Monitor a load balancer resource using Azure Monitor <br>
 
