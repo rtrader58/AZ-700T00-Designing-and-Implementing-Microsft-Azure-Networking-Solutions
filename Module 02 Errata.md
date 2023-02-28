@@ -1,6 +1,6 @@
-# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  - Module 02 Errata
+# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  - Learning Path 02 Errata
 
-## Module 2 – Design and implement an identity hybrid networking <br> (Total Time ~135 Minutes)
+## Learning Path 02 – Design and implement an identity hybrid networking <br> (Total Time ~135 Minutes)
 
 ### M02 - Unit 3 Create and configure a virtual network gateway (~70 Min) <br>
 

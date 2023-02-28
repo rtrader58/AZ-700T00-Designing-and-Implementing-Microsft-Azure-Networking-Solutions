@@ -113,9 +113,26 @@ Step 2:  Leave the size that is auto filled <br>
 
 ## Learning Path 05 – Load balance HTTP(S) traffic in Azure <br>
 
-### Exercise:  Deploy Azure Application Gateway <br>
+### M05 - Unit 4 Deploy Azure Application Gateway <br>
 
 Task 1:  Create an application gateway <br>
+Prior to creating the Application Gateway you will need to create the Virtual Netowrk.  As the interface has changed and no longer allows you to create more than 1 subnet during the creation of the Gateway. <br>
+
+Use the following steps to create the Virtual network  <br>
+1. Search for Virtual network  <br>
+2. Create <br>
+3. Create Resource Group:  ContosoAppGateway <br>
+4. Name:  ContosoVNet <br>
+5. Change default subnet name to AGSubnet <br>
+6: Add Subnet <br>
+name: BackendSubnet <br>
+address range: 10.0.1.0/24 <br>
+Review and create > Create <br>
+
+Return to Task 1 Step 1 - when asked ablut the network configuration choose the networks you just created <br>
+Step 4:  Resource Group:  Choose ContosoResourceGroup <br>
+
+
 You will need to give the Application Gateway a Priority when configuring the listener.  Set it to 100 <br>
 
 Task 2:  Create virtual machines <br>

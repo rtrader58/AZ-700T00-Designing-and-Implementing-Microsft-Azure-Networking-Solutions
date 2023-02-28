@@ -1,10 +1,30 @@
-# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  - Module 04 Errata
+# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  -Learning Path 04 Errata
 
 <br>
  
-## Module 4 -Load balance non-HTTP(S) traffic in Azure <br>
+## Learning Path 04 -Load balance non-HTTP(S) traffic in Azure <br>
 
-### Exercise:  Create and configure an Azure load balancer <br>
+### M04 - Unit 4 Create and configure an Azure load balancer (~60 Min)
+
+Task 1: Create the virtual network <br>
+Step 3:  Delete the existing Virtual Network <br>
+Wait for the deployment to complete before moving on <br>
 
 Task 2:  Create backend servers <br>
-Step 1:  if prompted use advance setting to create a storage account <br>
+Step 1:  If prompted use advance setting to create a storage account <br>
+Use existing Resource Group <br>
+Step 2:  path to files  F:\allfiles\exercises\M04 <br>
+Step 3:  Once VM2 is created you may have to hit enter for the last cmdlet to run.  Do not close the Cloud Shell until the  all VMs are created <br>
+
+Task 4: Create load balancer resources <br>
+Do not continue until all VMs are created from task 2 <br>
+Create a backend pool and add VMs to the backend pool <br>
+Step 4:  Click Add under IP configuration to add Virtual Machines <br>
+Step 6:  Click Save <br>
+
+Create a health probe <br>
+Step 2:  Unhealthy threshold has been removed <br>
+
+Task 5: Test the load balancer <br>
+Create test VM <br>
+Step 2:  Leave the size that is auto filled <br>
