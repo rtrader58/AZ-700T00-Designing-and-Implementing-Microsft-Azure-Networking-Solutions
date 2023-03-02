@@ -1,8 +1,6 @@
 # AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  -Learning Path 04 Errata
 
-<br>
- 
-## Learning Path 04 -Load balance non-HTTP(S) traffic in Azure <br>
+## Learning Path 04 -Load balance non-HTTP(S) traffic in Azure (Total time ~ 60 Minutes) <br>
 
 ### M04 - Unit 4 Create and configure an Azure load balancer (~60 Min)
 

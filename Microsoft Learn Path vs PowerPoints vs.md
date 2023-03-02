@@ -30,8 +30,12 @@ Lab <br>
 
 M04 - Unit 4 Create and configure an Azure load balancer (~60 Min)
 
-
 Learning Path 5 - Load balance HTTP(S) traffic in Azure - https://learn.microsoft.com/en-us/training/modules/load-balancing-https-traffic-azure/ <br>
+
+Lab <br>
+
+M05 - Unit 4 Deploy Azure Application Gateway (~25 Min) <br>
+M05 - Unit 6 Create a Front Door for a highly available web application using the Azure portal (~30 Min)
 
 Learning Path 6 - Design and implement network security - https://learn.microsoft.com/en-us/training/modules/design-implement-network-security-monitoring/ <br>
 

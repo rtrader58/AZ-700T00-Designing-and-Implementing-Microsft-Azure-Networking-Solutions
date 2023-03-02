@@ -1,8 +1,6 @@
 # AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions - Learning Path 03 Errata
 
-<br>
- 
-## Learning Path 03 – Design and Implement Azure ExpressRoute 
+## Learning Path 03 – Design and Implement Azure ExpressRoute (Total time ~75 Minutes)
 
 Throughout the lab use the search box to search for ExpressRoute Circuits <br>
 

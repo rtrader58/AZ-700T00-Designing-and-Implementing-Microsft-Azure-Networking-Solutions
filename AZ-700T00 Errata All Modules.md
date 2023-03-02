@@ -1,29 +1,29 @@
 # AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  - Errata All Modules <br>
  
-## Learning Path 01 – Introduction to Azure virtual networks (Total Time ~70 Minutes) <br>
+## Learning Path 01 – Introduction to Azure virtual networks (Total Time ~70 Minutes)
 
-### M01-Unit 4 Design and implement a Virtual Network in Azure (~25 Min) <br>
+### M01-Unit 4 Design and implement a Virtual Network in Azure (~25 Min) 
 
-### Required Lab Setup <br>
+### Required Lab Setup
 
 Prepare cloud shell for later use <br>
 Step 5:  Use the resource group that is auto populated <br>
 
 When creating the virtual networks delete the existing IP range <br>
 
-### M01 - Unit 6 Configure DNS settings in Azure (~ 25 Min) <br>
+### M01 - Unit 6 Configure DNS settings in Azure ( ~25 Min) 
 
 Task 4: Verify records are present in the DNS zone <br>
 Exercise - Connect to the Test VMs using RDP <br>
 After step 19 disconnect from both RDP sessions <br>
 
-### M01 - Unit 8 Connect two Azure Virtual Networks using global virtual network peering (~20 Min) <br>
+### M01 - Unit 8 Connect two Azure Virtual Networks using global virtual network peering (~20 Min) 
 
 No errata
 
-## Learning Path 02 – Design and implement an identity hybrid networking <br>
+## Learning Path 02 – Design and implement an identity hybrid networking (Total Time ~135 Minutes)
 
-### M02 - Unit 3 Create and configure a virtual network gateway (~70 Min) <br>
+### M02 - Unit 3 Create and configure a virtual network gateway (~70 Min) 
 
 Task 1:  Create CoreservicesVnet and ManufacturingVnet <br>
 Step 1:  If required use advanced settings to create a storage account <br>
@@ -46,7 +46,7 @@ Step 2:  it took 10 minutes after gateways were finished building before status 
 
 No errata <br>
 
-## Learning Path 03 – Design and Implement Azure ExpressRoute 
+## Learning Path 03 – Design and Implement Azure ExpressRoute (Total time ~75 Minutes)
 
 Throughout the lab use the search box to search for ExpressRoute Circuits <br>
 
@@ -84,7 +84,7 @@ Task 4: Clean up resources <br>
 
 When cleaning up the lab you will need to create a storage account, use advanced setting to create the storage account <br>
 
-## Learning Path 04 -Load balance non-HTTP(S) traffic in Azure <br>
+## Learning Path 04 -Load balance non-HTTP(S) traffic in Azure (Total time ~ 60 Minutes) <br>
 
 ### M04 - Unit 4 Create and configure an Azure load balancer (~60 Min)
 
@@ -111,12 +111,13 @@ Task 5: Test the load balancer <br>
 Create test VM <br>
 Step 2:  Leave the size that is auto filled <br>
 
-## Learning Path 05 – Load balance HTTP(S) traffic in Azure <br>
+## Learning Path 05 – Load balance HTTP(S) traffic in Azure (Total Time ~55 Minutes)
 
-### M05 - Unit 4 Deploy Azure Application Gateway <br>
+### M05 - Unit 4 Deploy Azure Application Gateway (~25 Min)
 
 Task 1:  Create an application gateway <br>
-Prior to creating the Application Gateway you will need to create the Virtual Netowrk.  As the interface has changed and no longer allows you to create more than 1 subnet during the creation of the Gateway. <br>
+
+### Prior to creating the Application Gateway you will need to create the Virtual Netowrk.  As the interface has changed and no longer allows you to create more than 1 subnet during the creation of the Gateway. <br>
 
 Use the following steps to create the Virtual network  <br>
 1. Search for Virtual network  <br>
@@ -129,23 +130,35 @@ name: BackendSubnet <br>
 address range: 10.0.1.0/24 <br>
 Review and create > Create <br>
 
-Return to Task 1 Step 1 - when asked ablut the network configuration choose the networks you just created <br>
+Return to Task 1 Step 1 - when asked about the network configuration choose the networks you just created <br>
 Step 4:  Resource Group:  Choose ContosoResourceGroup <br>
-
+Virtual Network: ContosoVNet <br>
+Subnet:  ASGSubnet <br>
 
 You will need to give the Application Gateway a Priority when configuring the listener.  Set it to 100 <br>
 
 Task 2:  Create virtual machines <br>
 Step 1:  if prompted use advance setting to create a storage account <br>
 
-## Learning Path 06 – Design and implement network security <br>
+### M05 - Unit 6 Create a Front Door for a highly available web application using the Azure portal (~30 Min)
 
-### Exercise:  Configure DDos Protection on a virtual network using the Azure portal <br>
+No errata <br>
+
+## Learning Path 06 – Design and implement network security
+
+### M06 - Unit 4 Configure DDoS Protection on a virtual network using the Azure portal (~40 Min)
+
+Task 4: Configure DDoS telemetry <br>
+Step 4:  Name must be all lowercase <br>
 
 Task 6:  Configure DDos Alerts <br>
 Step 3:  You will need to select all images the in the Marketplace choose the correct image <br>
 Step 3:  You will need to select all sizes, you may have to search for the B1ls size <br>
 Step 7:  After downloading the key, select return to creating virtual machine <br>
+
+Configure DDoS alerts <br>
+Step 12:  Click Next: Actions <br>
+Step 13:  Click Details Then Fill in the information > click tags <br>
 
 Task 7:  Submit a DDoS service request to run a DDoS attack <br>
 Step 1:  When creating the breakingpoint account you will need to use a valid email address that you have access to (Recommend creating a dummy outlook account) <br>
@@ -153,7 +166,7 @@ Step 1:  When creating the breakingpoint account you will need to use a valid em
 Task 8:  Clean up resources <br>
 Step 1:  if prompted create a storage account <br>
 
-### Exercise:  Deploy and configure Azure Firewall using the Azure Portal <br>
+### M06 - Unit 7 Deploy and configure Azure Firewall using the Azure portal (~ 60 Min)
 
 Task 4: Deploy the firewall and firewall policy <br>
 Step 1:  Use the Search resources box at the top of the Azure portal instead of create a resource <br>

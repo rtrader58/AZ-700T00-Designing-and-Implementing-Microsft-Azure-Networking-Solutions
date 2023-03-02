@@ -1,8 +1,8 @@
-# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  - Learning Path 02 Errata
+# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions - Learning Path 02 Errata
 
-## Learning Path 02 – Design and implement an identity hybrid networking <br> (Total Time ~135 Minutes)
+# Learning Path 02 – Design and implement an identity hybrid networking (Total Time ~135 Minutes)
 
-### M02 - Unit 3 Create and configure a virtual network gateway (~70 Min) <br>
+### M02 - Unit 3 Create and configure a virtual network gateway (~70 Min) 
 
 Task 1:  Create CoreservicesVnet and ManufacturingVnet <br>
 Step 1:  If required use advanced settings to create a storage account <br>
