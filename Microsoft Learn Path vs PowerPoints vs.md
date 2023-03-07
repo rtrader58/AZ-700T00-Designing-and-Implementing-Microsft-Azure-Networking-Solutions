@@ -42,7 +42,7 @@ Labs <br>
 
 M06 - Unit 4:  Configure DDoS Protection on a virtual network using the Azure portal (~40 Min)​ <br>
 M06 - Unit 7:  Deploy and configure Azure Firewall using the Azure portal (~60 Min)​ <br>
-M06 - Unit 9:   Secure your virtual hub using Azure Firewall Manager (~35 Min)​ <br>
+M06 - Unit 9:  Secure your virtual hub using Azure Firewall Manager (~35 Min)​ <br>
 
 ### Learning Path 7 - Design and implement private access to Azure Services - https://learn.microsoft.com/en-us/training/modules/design-implement-private-access-to-azure-services/ 
 
