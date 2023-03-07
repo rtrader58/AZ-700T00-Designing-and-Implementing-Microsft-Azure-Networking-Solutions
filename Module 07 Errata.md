@@ -1,10 +1,8 @@
-# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  - Module 07 Errata
+# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  - Learning Path 07 Errata
 
-<br>
+## Learning Path 07 – Design and implement private access to Azure services (Total time ~ 80 Minutes)
 
-## Module 7 – Design and implement private access to Azure services <br>
-
-### Exercise:  Restrict network access to PAAS resources with virtual network service endpoints <br>
+### M07 - Unit 5:  Restrict network access to PAAS resources with virtual network service endpoints (~35 Min)
 
 Task 4:  Add additional outbound rules <br>
 Step 2:  Enter Any for the source <br>
@@ -22,7 +20,7 @@ Step 8:  Copy the key to notepad <br>
 Task 9: Create virtual machines <br>
 Step 1:  Create a Storage account if needed <br>
 
-### Exercise - Create an Azure Private Endpoint using Azure PowerShell <br>
+### M07 - Unit 6:  Create an Azure Private Endpoint using Azure PowerShell (~45 Min)
 
 Task 2: Create a virtual network and bastion host <br>
 Note:  It took ~20 Minutes to deploy the Bastion <br>

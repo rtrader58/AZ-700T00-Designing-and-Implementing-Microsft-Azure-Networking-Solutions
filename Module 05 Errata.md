@@ -31,4 +31,4 @@ Step 1:  if prompted use advance setting to create a storage account <br>
 
 ### M05 - Unit 6 Create a Front Door for a highly available web application using the Azure portal (~30 Min)
 
-No errata
+No errata <br>

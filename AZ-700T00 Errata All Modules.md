@@ -28,7 +28,7 @@ No errata
 Task 1:  Create CoreservicesVnet and ManufacturingVnet <br>
 Step 1:  If required use advanced settings to create a storage account <br>
 
-# Complete tasks 6 and 7 before taking a break <br>
+# Complete tasks 6 and 7 before taking a break 
 
 Task 6: Create CoreServicesVnet Gateway <br>
 Step 3:  If Public IP Address Type is greyed out continue <br>
@@ -84,7 +84,7 @@ Task 4: Clean up resources <br>
 
 When cleaning up the lab you will need to create a storage account, use advanced setting to create the storage account <br>
 
-## Learning Path 04 -Load balance non-HTTP(S) traffic in Azure (Total time ~ 60 Minutes) <br>
+## Learning Path 04 -Load balance non-HTTP(S) traffic in Azure (Total time ~60 Minutes)
 
 ### M04 - Unit 4 Create and configure an Azure load balancer (~60 Min)
 
@@ -144,7 +144,7 @@ Step 1:  if prompted use advance setting to create a storage account <br>
 
 No errata <br>
 
-## Learning Path 06 – Design and implement network security
+## Learning Path 06 – Design and implement network security (Total time ~135 Minutes)
 
 ### M06 - Unit 4 Configure DDoS Protection on a virtual network using the Azure portal (~40 Min)
 
@@ -166,7 +166,7 @@ Step 1:  When creating the breakingpoint account you will need to use a valid em
 Task 8:  Clean up resources <br>
 Step 1:  if prompted create a storage account <br>
 
-### M06 - Unit 7 Deploy and configure Azure Firewall using the Azure portal (~ 60 Min)
+### M06 - Unit 7 Deploy and configure Azure Firewall using the Azure portal (~60 Min)
 
 Task 4: Deploy the firewall and firewall policy <br>
 Step 1:  Use the Search resources box at the top of the Azure portal instead of create a resource <br>
@@ -177,7 +177,7 @@ Wait until the Application rule has deployed <br>
 Task 8:  Configure a Destination NAT (DNAT) rule <br>
 Wait until the Network rule has deployed <br>
 
-### Exercise:  Secure your virtual hub using Azure Firewall Manager <br>
+### M06 - Unit 9 Secure your virtual hub using Azure Firewall Manager (-35 Min)
 
 Task 2:  Create the secured virtual hub <br>
 Step 3:  Under Deployments, select Virtual Hubs <br>
@@ -194,9 +194,9 @@ Step 4:  Manage associations is located on the top bar <br>
 
 Association took over 15 minutes <br>
 
-## Learning Path 07 – Design and implement private access to Azure services <br>
+## Learning Path 07 – Design and implement private access to Azure services (Total time ~ 80 Minutes)
 
-### Exercise:  Restrict network access to PAAS resources with virtual network service endpoints <br>
+### M07 - Unit 5:  Restrict network access to PAAS resources with virtual network service endpoints (~35 Min)
 
 Task 4:  Add additional outbound rules <br>
 Step 2:  Enter Any for the source <br>
@@ -214,7 +214,7 @@ Step 8:  Copy the key to notepad <br>
 Task 9: Create virtual machines <br>
 Step 1:  Create a Storage account if needed <br>
 
-### Exercise - Create an Azure Private Endpoint using Azure PowerShell <br>
+### M07 - Unit 6:  Create an Azure Private Endpoint using Azure PowerShell (~45 Min)
 
 Task 2: Create a virtual network and bastion host <br>
 Note:  It took ~20 Minutes to deploy the Bastion <br>
@@ -229,9 +229,9 @@ Pa55w.rd1234 <br>
 
 Copy and paste the remaining script into the cloud shell <br>
 
-## Learning Path 08: Design and implement network monitoring <br>
+## Learning Path 08: Design and implement network monitoring (Total time ~55 Minutes)
 
-### Exercise – Monitor a load balancer resource using Azure Monitor <br>
+### M08 - Unit 3:  Monitor a load balancer resource using Azure Monitor (~55 Min)
 
 Task 3: Create a backend pool <br>
 Step 4: click save <br>

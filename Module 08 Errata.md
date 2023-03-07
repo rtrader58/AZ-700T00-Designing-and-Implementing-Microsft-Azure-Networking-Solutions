@@ -1,10 +1,8 @@
-# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  - Module 08 Errata
+# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  - Modullearning Path 08 Errata
 
-<br>
- 
-## Module 08 (CSS): Design and implement network monitoring <br>
+## Learning Path 08: Design and implement network monitoring (Total time ~55 Minutes)
 
-### Exercise – Monitor a load balancer resource using Azure Monitor <br>
+### M08 - Unit 3:  Monitor a load balancer resource using Azure Monitor (~55 Min)
 
 Task 3: Create a backend pool <br>
 Step 4: click save <br>
