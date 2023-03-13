@@ -25,13 +25,14 @@ M03 - Unit 5 Provision an ExpressRoute circuit (~15 Min) <br>
 
 ### Learning Path 4 - Load balance non-HTTP(S) traffic in Azure - https://learn.microsoft.com/en-us/training/modules/load-balancing-non-https-traffic-azure/ 
 
-Lab <br>
+Labs <br>
 
 M04 - Unit 4 Create and configure an Azure load balancer (~60 Min) <br>
+M04 - Unit 6 Create a Traffic Manager profile using the Azure portal (~35 Min)​ <br>
 
 ### Learning Path 5 - Load balance HTTP(S) traffic in Azure - https://learn.microsoft.com/en-us/training/modules/load-balancing-https-traffic-azure/ 
 
-Lab <br>
+Labs <br>
 
 M05 - Unit 4 Deploy Azure Application Gateway (~25 Min) <br>
 M05 - Unit 6 Create a Front Door for a highly available web application using the Azure portal (~30 Min) <br>
