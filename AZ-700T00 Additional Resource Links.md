@@ -1,12 +1,12 @@
 # AZ-700T00 Additional Resource Links <br>
 
 ## Module 0 
-<br>
+
 Interface Technical Training – https://interfacett.com<br>
 
 Replay - https://replay.interfacett.com<br>
 
-Lab Environment – https://interfacett.learnondemand.net
+Lab Environment – https://interfacett.learnondemand.net <br>
 
 AZ-700 Exam objectives - https://docs.microsoft.com/en-us/learn/certifications/exams/az-700<br>
 
@@ -20,7 +20,7 @@ Azure Platforms Blog - https://social.msdn.microsoft.com/Forums/enUS/home?catego
 
 Channel 9 - https://channel9.msdn.com? <br>
 
-Azure Blog - https://azure.microsoft.com/en-us/blog 
+Azure Blog - https://azure.microsoft.com/en-us/blog <br>
 
 Microsoft Learn - https://docs.microsoft.com/learn/browse/ <br>
 
@@ -31,7 +31,6 @@ Azure forums https://docs.microsoft.com/answers/products/azure?product=all  <b
 Microsoft Azure Blog - https://azure.microsoft.com/blog/  <br>
 
 Microsoft Learning Community Blog – https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog  <br>
-
 
 ## Module 1 <br>
 
@@ -115,7 +114,7 @@ https://docs.microsoft.com/en-us/Azure/virtual-wan/virtual-wan-site-to-site-port
 
 https://docs.microsoft.com/en-us/azure/virtual-wan/about-nva-hub <br>
 
-## Module 3 <br>
+## Module 3
 
 https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction <br>
 
@@ -125,7 +124,7 @@ Azure ExpressRoute: Routing requirements | Microsoft Docs https://docs.microsoft
 
 https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/ <br>
 
-## Module 4 <br>
+## Module 4
 
 https://docs.microsoft.com/en-us/azure/load-balancer/skus <br>
 
@@ -137,7 +136,7 @@ Load balancer SKUs - https://docs.microsoft.com/en-us/azure/load-balancer/skus <
 
 https://docs.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-standard-manage-portal <br>
 
-## Module 5 <br>
+## Module 5
 
 Application Gateway configuration overview - https://docs.microsoft.com/en-us/azure/application-gateway/configuration-overview <br>
 
@@ -147,7 +146,7 @@ https://docs.microsoft.com/en-us/azure/application-gateway/features <br>
 
 https://docs.microsoft.com/azure/frontdoor/standard-premium/tier-comparison#feature-comparison-between-tiers <br>
 
-## Module 6 <br>
+## Module 6
 
 Another example using Service Endpoints with SQL Diagram: https://docs.microsoft.com/azure/virtual-network/vnet-integration-for-azure-services#service-endpoints <br>
 
@@ -163,7 +162,7 @@ https://docs.microsoft.com/Azure/private-link/private-link-overview <br>
 
 https://docs.microsoft.com/Azure/private-link/private-endpoint-overview <br>
 
-## Module 7 <br>
+## Module 7
 
 Another example using Service Endpoints with SQL Diagram: https://docs.microsoft.com/azure/virtual-network/vnet-integration-for-azure-services#service-endpoints <br>
 
@@ -183,7 +182,7 @@ https://docs.microsoft.com/Azure/private-link/private-link-overview <br>
 
 https://docs.microsoft.com/Azure/private-link/private-endpoint-overview <br>
 
-## Module 8 <br>
+## Module 8
 
 View the topology of an Azure virtual network - https://docs.microsoft.com/en-us/azure/network-watcher/view-network-topology <br>
 
