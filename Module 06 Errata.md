@@ -2,7 +2,7 @@
 
 ## Module 06 – Design and implement network security (Total time ~135 Minutes)
 
-### Exercise: Configure DDoS Protection on a virtual network using the Azure portal (~40 Min)
+### Exercise:Configure DDoS Protection on a virtual network using the Azure portal (~40 Min)
 
 Task 4: Configure DDoS telemetry <br>
 Step 4:  Name must be all lowercase <br>

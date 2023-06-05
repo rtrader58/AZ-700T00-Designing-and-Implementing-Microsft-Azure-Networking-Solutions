@@ -2,7 +2,7 @@
 
 ## Module 05 – Load balance HTTP(S) traffic in Azure (Total Time ~55 Minutes)
 
-### Exercise: Deploy Azure Application Gateway (~25 Min)
+### Exercise: eploy Azure Application Gateway (~25 Min)
 
 Task 1:  Create an application gateway <br>
 
