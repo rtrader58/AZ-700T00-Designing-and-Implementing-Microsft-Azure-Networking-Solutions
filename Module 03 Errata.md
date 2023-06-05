@@ -1,6 +1,6 @@
-# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions - Learning Path 03 Errata
+# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions - Module 03 Errata
 
-## Learning Path 03 – Design and Implement Azure ExpressRoute (Total time ~75 Minutes)
+## Module 03 – Design and Implement Azure ExpressRoute (Total time ~75 Minutes)
 
 Throughout the lab use the search box to search for ExpressRoute Circuits <br>
 
@@ -9,7 +9,7 @@ Throughout the lab use the search box to search for ExpressRoute Circuits <br>
 Prepare cloud shell for later use <br>
 Step 5:  Use the existing Resource Group <br>
 
-### M03 - Unit 4 Configure an ExpressRoute Gateway (~60 Min)
+### Exercise: Configure an ExpressRoute Gateway (~60 Min)
 
 Task 1: Create the VNet and gateway subnet <br>
 Delete the 10.0.0.0 Virtual Network <br>
@@ -26,7 +26,7 @@ Task 2: Create the virtual network gateway <br>
 Step 3:  Resource Group will auto populate
  <br>
 
-### M03 - Unit 5 Provision an ExpressRoute circuit (~15 Min)
+### MExercise: Provision an ExpressRoute circuit (~15 Min)
 
 Task 1: Create and provision an ExpressRoute circuit <br>
 Step 1:  If ExpressRoute is not an option search for it <br>

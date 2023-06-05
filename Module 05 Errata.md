@@ -1,8 +1,8 @@
-# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions - Learning Path 05 Errata
+# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions - Module 05 Errata
 
-## Learning Path 05 – Load balance HTTP(S) traffic in Azure (Total Time ~55 Minutes)
+## Module 05 – Load balance HTTP(S) traffic in Azure (Total Time ~55 Minutes)
 
-### M05 - Unit 4 Deploy Azure Application Gateway (~25 Min)
+### Exercise: Deploy Azure Application Gateway (~25 Min)
 
 Task 1:  Create an application gateway <br>
 
@@ -29,6 +29,6 @@ You will need to give the Application Gateway a Priority when configuring the li
 Task 2:  Create virtual machines <br>
 Step 1:  if prompted use advance setting to create a storage account <br>
 
-### M05 - Unit 6 Create a Front Door for a highly available web application using the Azure portal (~30 Min)
+### Exercise: Create a Front Door for a highly available web application using the Azure portal (~30 Min)
 
 No errata <br>

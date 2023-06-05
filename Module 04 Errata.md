@@ -1,8 +1,8 @@
-# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  -Learning Path 04 Errata
+# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  - Module 04 Errata
 
-## Learning Path 04 -Load balance non-HTTP(S) traffic in Azure (Total time ~60 Minutes)
+## Module 04 -Load balance non-HTTP(S) traffic in Azure (Total time ~60 Minutes)
 
-### M04 - Unit 4 Create and configure an Azure load balancer (~60 Min)
+### Exercise: Create and configure an Azure load balancer (~60 Min)
 
 Task 1: Create the virtual network <br>
 Step 3:  Delete the existing Virtual Network <br>

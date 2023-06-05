@@ -1,8 +1,8 @@
-# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  - Learning Path 06 Errata
+# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  - Module 06 Errata
 
-## Learning Path 06 – Design and implement network security (Total time ~135 Minutes)
+## Module 06 – Design and implement network security (Total time ~135 Minutes)
 
-### M06 - Unit 4 Configure DDoS Protection on a virtual network using the Azure portal (~40 Min)
+### Exercise: Configure DDoS Protection on a virtual network using the Azure portal (~40 Min)
 
 Task 4: Configure DDoS telemetry <br>
 Step 4:  Name must be all lowercase <br>
@@ -22,7 +22,7 @@ Step 1:  When creating the breakingpoint account you will need to use a valid em
 Task 8:  Clean up resources <br>
 Step 1:  if prompted create a storage account <br>
 
-### M06 - Unit 7 Deploy and configure Azure Firewall using the Azure portal (~60 Min)
+### Exercise: Deploy and configure Azure Firewall using the Azure portal (~60 Min)
 
 Task 4: Deploy the firewall and firewall policy <br>
 Step 1:  Use the Search resources box at the top of the Azure portal instead of create a resource <br>
@@ -33,7 +33,7 @@ Wait until the Application rule has deployed <br>
 Task 8:  Configure a Destination NAT (DNAT) rule <br>
 Wait until the Network rule has deployed <br>
 
-### M06 - Unit 9 Secure your virtual hub using Azure Firewall Manager (-35 Min)
+### Exercise: Secure your virtual hub using Azure Firewall Manager (-35 Min)
 
 Task 2:  Create the secured virtual hub <br>
 Step 3:  Under Deployments, select Virtual Hubs <br>
