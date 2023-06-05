@@ -7,7 +7,7 @@
 ### Required Lab Setup
 
 Prepare cloud shell for later use <br>
-Step 5:  Use the resource group that is auto populated <br>
+Step 5: Use the resource group that is auto populated <br>
 
 When creating the virtual networks delete the existing IP range <br>
 
