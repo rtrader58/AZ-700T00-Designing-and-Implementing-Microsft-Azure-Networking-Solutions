@@ -120,9 +120,13 @@ https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction <b
 
 https://www.azure.cn/en-us/support/sla/expressroute/ <br>
 
-Azure ExpressRoute: Routing requirements | Microsoft Docs https://docs.microsoft.com/azure/expressroute/expressroute-routing#bgp <br>
+Azure ExpressRoute: Routing requirements Microsoft Docs https://docs.microsoft.com/azure/expressroute/expressroute-routing#bgp <br>
 
 https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/ <br>
+
+ExpressRoute connectivity partners and peering locations https://learn.microsoft.com/en-us/azure/expressroute/expressroute-locations <br>
+
+ExpressRoute peering locations and connectivity partners https://learn.microsoft.com/en-us/azure/expressroute/expressroute-locations-providers <br>
 
 ## Module 4
 
