@@ -52,7 +52,7 @@ Lab <br>
 Restrict network access to PAAS resources with virtual network service endpoints (~35 Min)​ <br>
 reate an Azure Private Endpoint using Azure PowerShell (~45 Min)​ <br>
 
-### Module 08 - Design and implement network monitoring = https://learn.microsoft.com/en-us/training/modules/design-implement-network-monitoring/ 
+### Module 08 - Design and implement network monitoring - https://learn.microsoft.com/en-us/training/modules/design-implement-network-monitoring/ 
 
 Lab <br>
 
