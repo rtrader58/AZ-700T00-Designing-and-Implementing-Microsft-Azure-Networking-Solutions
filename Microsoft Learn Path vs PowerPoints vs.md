@@ -12,12 +12,13 @@ Connect two Azure Virtual Networks using global virtual network peering (~20 Min
 
 ### Module 02 - Design and implement hybrid networking - https://learn.microsoft.com/en-us/training/modules/design-implement-hybrid-networking/
 
-Labs <BR>
+Labs <br>
 
 Create and configure a virtual network gateway (~70 Min) <br>
-reate a Virtual WAN by using Azure Portal (~65 Min) <BR>
+Create a Virtual WAN by using Azure Portal (~65 Min) <BR>
 
 ### Module 03 - Design and implement Azure ExpressRoute - https://learn.microsoft.com/en-us/training/modules/design-implement-azure-expressroute/ 
+
 Labs <br>
 
 Configure an ExpressRoute Gateway (~60 Min) <br>
@@ -25,17 +26,17 @@ Provision an ExpressRoute circuit (~15 Min) <br>
 
 ### Module 04 - Load balance non-HTTP(S) traffic in Azure - https://learn.microsoft.com/en-us/training/modules/load-balancing-non-https-traffic-azure/ 
 
-Labs <br>
-
 Create and configure an Azure load balancer (~60 Min) <br>
 Create a Traffic Manager profile using the Azure portal (~35 Min)​ <br>
+
+Labs <br>
 
 ### Module 05 - Load balance HTTP(S) traffic in Azure - https://learn.microsoft.com/en-us/training/modules/load-balancing-https-traffic-azure/ 
 
 Labs <br>
 
 Deploy Azure Application Gateway (~25 Min) <br>
-reate a Front Door for a highly available web application using the Azure portal (~30 Min) <br>
+Create a Front Door for a highly available web application using the Azure portal (~30 Min) <br>
 
 ### Module 06 - Design and implement network security - https://learn.microsoft.com/en-us/training/modules/design-implement-network-security-monitoring/
 
