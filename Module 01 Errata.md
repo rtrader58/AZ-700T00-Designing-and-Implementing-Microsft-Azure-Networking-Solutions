@@ -9,9 +9,15 @@
 Prepare cloud shell for later use <br>
 Step 5: Use the resource group that is auto populated <br>
 
+### Exercise: Design and implement a Virtual Network in Azure
+
+
 When creating the virtual networks delete the existing IP range <br>
 
 ### Exercise: Configure DNS settings in Azure ( ~25 Min) 
+
+Task 1: Create the Contoso resource group <br>
+resource group - Has already been created sko to Task 2 <br>
 
 Task 4: Verify records are present in the DNS zone <br>
 Exercise - Connect to the Test VMs using RDP <br>
