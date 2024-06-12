@@ -29,7 +29,7 @@ Task 1:  Create CoreservicesVnet and ManufacturingVnet <br>
 Step 1:  If required use advanced settings to create a storage account <br>
 
 Task 3: Create ManufacturingVM  <br>
-Step 2:  Before uploading the ManufacturingVMazuredeploy.parameters.json - open the file and change the VM size from D2as_v5 to DS1_v2 > save the file then upload <br>
+Step 2: If creating the Manufacturing VM fails, open the ManufacturingVMazuredeploy.parameters.json - change the VM size from D2as_v5 to DS1_v2 > save the file then upload <br>
 
 # Complete tasks 6 and 7 before taking a break 
 
