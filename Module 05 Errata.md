@@ -2,7 +2,7 @@
 
 ## Module 05 – Load balance HTTP(S) traffic in Azure (Total Time ~55 Minutes)
 
-### Exercise: eploy Azure Application Gateway (~25 Min)
+### Exercise: Deploy Azure Application Gateway (~25 Min)
 
 Task 1:  Create an application gateway <br>
 
@@ -11,7 +11,7 @@ Task 1:  Create an application gateway <br>
 Use the following steps to create the Virtual network  <br>
 1. Search for Virtual network  <br>
 2. Create <br>
-3. Create Resource Group:  ContosoAppGateway <br>
+3. Create Resource Group:  ContosoResourceGroup <br>
 4. Name:  ContosoVNet <br>
 5. Change default subnet name to AGSubnet <br>
 6: Add Subnet <br>
