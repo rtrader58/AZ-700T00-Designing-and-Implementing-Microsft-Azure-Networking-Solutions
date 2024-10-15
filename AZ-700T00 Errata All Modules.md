@@ -34,6 +34,9 @@ Step 2: If creating the Manufacturing VM fails, open the ManufacturingVMazuredep
 # Complete tasks 6 and 7 before taking a break 
 
 Task 6: Create CoreServicesVnet Gateway <br>
+Before Step 1:  The GatewaySubnet does not get created using the JSON use the following steps to create the subnet <br>
+Search for Virtual Network > Select ManufacturingVnet > Select Subnets under Settings> Select + Gateway Subnet > Starting address 10.30.0.0 > Size /27 > Add <br>
+
 Step 3:  If Public IP Address Type is greyed out continue <br>
 Continue with Task 7 while Gateway is being built. <br>
 
