@@ -17,6 +17,9 @@ Step 3: If Public IP Address Type is greyed out continue <br>
 Continue with Task 7 while Gateway is being built. <br>
 
 Task 7: Create ManufacturingVnet Gateway <br>
+Before Step 1:  The GatewaySubnet does not get created using the JSON use the following steps to create the subnet <br>
+Search for Virtual Network > Select ManufacturingVnet > Select Subnets under Settings> Select + Gateway Subnet > Starting address 10.30.0.0 > Size /27 > Add <br>
+
 Step 3: If Public IP Address Type is greyed out continue <br>
 Routinely click in the Azure Portal so the lab does not end on you <br>
 Both Virtual Gateways have to finish building before continuing to Task 8 <br>
