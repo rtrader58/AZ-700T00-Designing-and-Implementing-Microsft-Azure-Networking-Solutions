@@ -29,7 +29,11 @@ Public IP address SKU - choose Standard <br>
 ### Exercise: Provision an ExpressRoute circuit (~15 Min)
 
 Task 1: Create and provision an ExpressRoute circuit <br>
-Step 1:  If ExpressRoute is not an option search for it <br>
+Step 1: If ExpressRoute is not an option search for it <br>
+Step 2 and 3: There now only 1 blade  <br> 
+Choose Standard for Resiliency <br>
+Populate the remaining fields from step 2 and 3 information <br>
+The allow classis operation in the picture has been removed <br>
 
 Task 2: Retrieve your Service key <br>
 If ExpressRoute does not appear - search for ExpressRoute Circuit <br>
