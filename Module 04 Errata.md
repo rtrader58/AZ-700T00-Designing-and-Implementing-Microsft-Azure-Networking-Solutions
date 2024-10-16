@@ -27,7 +27,7 @@ Task 5: Test the load balancer <br>
 Create test VM <br>
 Step 2: Leave the size that is auto filled <br>
 
-### Module 04 - Create a Traffic Manager profile using the Azure portal
+### Exercise: Create a Traffic Manager profile using the Azure portal
 
 Task 1: Create the web apps <br>
 Step 2 and step 7: Unique default hostname (preview) on - Slide the bar to the right <br>
