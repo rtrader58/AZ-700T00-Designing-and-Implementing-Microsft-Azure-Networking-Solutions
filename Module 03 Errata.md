@@ -23,10 +23,10 @@ Subnet size:  choose /27 <br>
 
 Task 2: Create the virtual network gateway <br>
 
-Step 3:  Resource Group will auto populate
- <br>
+Step 3:  Resource Group will auto populate <br>
+Public IP address SKU - choose Standard <br>
 
-### MExercise: Provision an ExpressRoute circuit (~15 Min)
+### Exercise: Provision an ExpressRoute circuit (~15 Min)
 
 Task 1: Create and provision an ExpressRoute circuit <br>
 Step 1:  If ExpressRoute is not an option search for it <br>
