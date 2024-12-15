@@ -14,7 +14,7 @@ Step 5: Use the resource group that is auto populated <br>
 When creating the virtual networks delete the existing IP range <br>
 
 Task 1: Create the Contoso resource group <br>
-resource group - Has already been created skip to Task 2 <br>
+Resource Group - Has already been created skip to Task 2 <br>
 
 ### Exercise: Configure DNS settings in Azure ( ~25 Min) 
 
