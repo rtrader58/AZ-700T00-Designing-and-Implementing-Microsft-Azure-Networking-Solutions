@@ -9,13 +9,10 @@ Throughout the lab use the search box to search for ExpressRoute Circuits <br>
 Prepare cloud shell for later use <br>
 Step 5:  Use the existing Resource Group <br>
 
-### Exercise:  onfigure an ExpressRoute Gateway (~60 Min)
+### Exercise:  Configure an ExpressRoute Gateway (~60 Min)
 
 Task 1: Create the VNet and gateway subnet <br>
-Delete the 10.0.0.0 Virtual Network <br>
-
-Step 5:   After pasting delete the /16 <br>
-Subnet size:  /16 <br>
+Delete the Default Subnet <br>
 
 Step 6:  Select Virtual Network Gateway in the Subnet template dropdown <br>
 Starting address:  After pasting delete the /27 <br>
