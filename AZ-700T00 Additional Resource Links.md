@@ -5,7 +5,7 @@
 Interface Technical Training – https://interfacett.com<br>
 Replay - https://replay.interfacett.com<br>
 Lab Environment – https://interfacett.learnondemand.net <br>
-Microsoft Github Az-700 Repository - https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions <br>
+Microsoft Github AZ-700 Repository - https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions <br>
 AZ-700 Exam objectives - https://docs.microsoft.com/en-us/learn/certifications/exams/az-700<br>
 AZ-700 Exam Study guide - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4PaHw<br>
 Exam discount - https://www.interfacett.com/microsoft-certification-exams/<br>
