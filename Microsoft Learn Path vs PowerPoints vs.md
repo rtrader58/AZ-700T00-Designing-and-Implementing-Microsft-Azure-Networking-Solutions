@@ -26,10 +26,10 @@ Provision an ExpressRoute circuit (~15 Min) <br>
 
 ### Module 04 - Load balance non-HTTP(S) traffic in Azure - https://learn.microsoft.com/en-us/training/modules/load-balancing-non-https-traffic-azure/ 
 
+Labs <br>
+
 Create and configure an Azure load balancer (~60 Min) <br>
 Create a Traffic Manager profile using the Azure portal (~35 Min)​ <br>
-
-Labs <br>
 
 ### Module 05 - Load balance HTTP(S) traffic in Azure - https://learn.microsoft.com/en-us/training/modules/load-balancing-https-traffic-azure/ 
 
