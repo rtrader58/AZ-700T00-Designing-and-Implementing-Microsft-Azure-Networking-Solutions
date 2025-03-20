@@ -1,4 +1,4 @@
-# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  - Module 08 Errata
+# AZ-700T00 Designing and Implementing Microsoft Azure Networking Solutions  - Module 08 Errata
 
 ## Module 08: Design and implement network monitoring (Total time ~55 Minutes)
 
