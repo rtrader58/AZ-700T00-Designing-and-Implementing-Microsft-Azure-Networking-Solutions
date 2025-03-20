@@ -1,4 +1,4 @@
-# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  - Module 04 Errata
+# AZ-700T00 Designing and Implementing Microsoft Azure Networking Solutions  - Module 04 Errata
 
 ## Module 04 -Load balance non-HTTP(S) traffic in Azure (Total time ~60 Minutes)
 
