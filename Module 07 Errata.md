@@ -1,4 +1,4 @@
-# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions  - Module 07 Errata
+# AZ-700T00 Designing and Implementing Microsoft Azure Networking Solutions  - Module 07 Errata
 
 ## Module 07 – Design and implement private access to Azure services (Total time ~ 80 Minutes)
 
