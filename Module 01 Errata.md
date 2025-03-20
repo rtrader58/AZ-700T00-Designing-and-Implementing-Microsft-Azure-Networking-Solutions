@@ -1,4 +1,4 @@
-# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions - Module 01 Errata
+# AZ-700T00 Designing and Implementing Microsoft Azure Networking Solutions - Module 01 Errata
 
 ## Module 01 – Introduction to Azure virtual networks (Total Time ~70 Minutes)
 
