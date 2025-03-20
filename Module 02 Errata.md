@@ -1,4 +1,4 @@
-# AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions - Module 02 Errata
+# AZ-700T00 Designing and Implementing Microsoft Azure Networking Solutions - Module 02 Errata
 
 ## Module 02 – Design and implement an identity hybrid networking (Total Time ~135 Minutes)
 
