@@ -72,6 +72,9 @@ Azure ExpressRoute: Routing requirements Microsoft Docs https://docs.microsoft.c
 https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/ <br>
 ExpressRoute connectivity partners and peering locations https://learn.microsoft.com/en-us/azure/expressroute/expressroute-locations <br>
 ExpressRoute peering locations and connectivity partners https://learn.microsoft.com/en-us/azure/expressroute/expressroute-locations-providers <br>
+Azure Connectivity Toolkit – 
+https://github.com/Azure/NetworkMonitoring/blob/main/AzureCT/AvailabilityTesting.md <br>
+
 
 ## Module 4
 
