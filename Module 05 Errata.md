@@ -31,4 +31,5 @@ Step 1:  if prompted use advance setting to create a storage account <br>
 
 ### Exercise: Create a Front Door for a highly available web application using the Azure portal (~30 Min)
 
-When creating the Web App, if you get an error there are no quota in the region, close the creation window and start a new Web App and choose East US 2 <br>
+If during the creation you get a quota error - close the creation window - restart the creation- choose a different region <br>
+Unique default hostname (preview) on - Slide the bar to the left <br>
