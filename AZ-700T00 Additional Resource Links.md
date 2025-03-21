@@ -8,6 +8,7 @@ Lab Environment – https://interfacett.learnondemand.net <br>
 Microsoft Github AZ-700 Repository - https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions <br>
 AZ-700 Exam objectives - https://docs.microsoft.com/en-us/learn/certifications/exams/az-700<br>
 AZ-700 Exam Study guide - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4PaHw<br>
+AZ-700 Exam Prep Videos - https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-700-design-and-implement-core-networking-infrastructure-1-of-5 <br>
 Exam discount - https://www.interfacett.com/microsoft-certification-exams/<br>
 Windows Server Documentation - https://docs.microsoft.com/en-us/windows-server/<br>
 Azure Platforms Blog - https://social.msdn.microsoft.com/Forums/enUS/home?category=windowsazureplatform <br>
