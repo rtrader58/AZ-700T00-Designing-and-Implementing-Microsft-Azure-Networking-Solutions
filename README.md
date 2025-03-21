@@ -1,6 +1,6 @@
 # AZ-700T00 Designing and Implementing Microsft Azure Networking Solutions
 ## This repository is provided to enhance the course<br>
-## Minor Update 6/05/2024<br>
+## Update 3/21/2025<br>
 
 This repository is maintained by Rick Trader<br>
 Interface Technical Training<br>
